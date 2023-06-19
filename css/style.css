@@ -1,0 +1,132 @@
+.div-1 h3{
+  padding: 10px;
+}
+
+.div-02{
+  padding: 20px;;
+}
+
+.div-02>*{
+  display: inline-block;
+}
+
+.a1 {
+  padding: 16px 28px 16px 172px ;
+  text-decoration: none;
+  color: #B4604D;
+}
+
+.a2 {
+  padding : 16px 32px 16px 0 ;
+  text-decoration: none;
+  color: #B4604D;
+}
+
+.a3 {
+  padding : 16px 32px 16px 0 ;
+  text-decoration: none;
+  color: #B4604D;
+}
+
+.a4 {
+  padding : 16px 141px 16px 0 ;
+  text-decoration: none;
+  color: #B4604D;
+}
+
+.div-02 img {
+  padding: 0 402.27px 5px 0;
+}
+
+.a5 {
+  padding: 19px 43.8px 19px 0;
+  text-decoration: none;
+  color:#B4604D;
+}
+
+.p1 {
+  padding: 20.55px 4.9px 19.44px 0;
+  color: #B4604D;
+}
+
+.a6 {
+  text-decoration: none;
+  color: #B4604D;
+}
+
+.div-2 img {
+  width: 1520px;
+}
+
+.div-03 h3 {
+  padding: 69px 599px 15px;
+  color: aliceblue;
+}
+
+.div-03 h1 {
+  padding: 0 492px 28px;
+  color:aliceblue;
+}
+
+.div-03 button {
+  background-color: #B45F4D;
+  font-size: large;
+  color: aliceblue;
+}
+
+.div-3 h2 {
+  padding: 39px 622px 0px;
+  color:#B45F4D;
+}
+
+.div-3 {
+  display: inline-block;
+}
+
+.dae4 {
+  padding: 136px 72.55px 35px 125.45px;
+}
+
+.dae5 {
+  padding: 64px 94px 34.84px 0;
+}
+
+.dae6 {
+  padding: 143px 128px 32.84px 0px;
+}
+
+.Daedreamer {
+  margin:35px 290.12px 23px 126.22px;
+  text-decoration:none;
+  color: #B45F4D;
+}
+
+.Shampoo {
+  padding: 0px 356.39px 20px 0;
+  text-decoration: none;
+  color: #B45F4D;
+}
+
+.Conditioner {
+  padding: 32.84px 346.04px 18px 10px;
+  text-decoration: none;
+  color: #B45F4D;
+}
+
+.dollar1 {
+  padding: 23px 374px 89px 125.22px;
+  text-decoration: none;
+  color: #B45F4D;
+}
+
+
+.dollar2 {
+  padding: 0px 318px 89px 0px;
+  text-decoration: none;
+  color: #B45F4D;
+}
+
+.dollar3 {
+  text-decoration: none;
+  color: #B45F4D;
+}
